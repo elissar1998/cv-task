@@ -1947,7 +1947,7 @@ ol {
   content: "";
   right: 0;
   width: 50%;
-  background-image: url(../images/hero/hero-image.jpg);
+  background-image: url(../images/about/gray.png);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -5100,7 +5100,7 @@ blockquote span {
 .free-version-banner {
   position: relative;
   background: #333;
-  background-image: url("../images/free-version/free-bg.jpg");
+  background-image: url("../images/about/gray.png");
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
